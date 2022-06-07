@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+![image](https://user-images.githubusercontent.com/88508599/172448582-ce25bbdb-424b-4cb8-ae8b-2b743c97e9b5.png)
+
+
 live app : https://randomquotegeneratorbykhan.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
